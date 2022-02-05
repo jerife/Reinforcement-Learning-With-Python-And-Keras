@@ -1,4 +1,4 @@
-# Reinforcement-Learning-with-Python-and-Keras
+# Reinforcement-Learning-With-Python-And-Keras
 ### 파이썬과 케라스로 배우는 강화학습 / 이웅원, 양혁렬, 김건우, 이영무, 이의령 / 위키북스 
 ![image](https://user-images.githubusercontent.com/68190553/129193358-ddfd4cfe-101f-4662-ae4f-feca0a844961.png)
 
